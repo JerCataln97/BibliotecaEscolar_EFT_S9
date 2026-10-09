@@ -29,6 +29,7 @@ Para el desarrollo se utilizo programacion orientada a objetos, el patron DAO, u
 ├── dao/ # (CategoriaDAO, EstudianteDAO, LibroDAO, PrestamoDAO, UsuarioDAO)
 
 └── impl/ # (CategoriaDAOImpl, EstudianteDAOImpl, LibroDAOImpl, PrestamoDAOImpl, UsuarioDAOImpl)
+
 ├── main/ # (Main)
 
 ├── modelo/ # (Categoria, Estudiante, Libro, Prestamo, Reporte, Usuario)
